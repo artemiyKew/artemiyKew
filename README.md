@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @artemiyKew
+- 👋 Hi, I’m Artemiy
 - 👀 I’m interested in mobile development
 - 🌱 I’m currently learning Flutter/Dart
 - 📫 How to reach me tg:@prozrachnost
