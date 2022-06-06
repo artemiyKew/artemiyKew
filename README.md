@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Artemiy
 - 👀 I’m interested in mobile development
-- 🌱 I’m currently learning Flutter/Dart
+- 🌱 I’m currently learning iOS dev.
 - 📫 How to reach me tg:@prozrachnost
 
 <!---
